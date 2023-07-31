@@ -1,5 +1,4 @@
-## Base 64 Encoder/Decoder 📄↔🗝️
-Application for base 64 encoding and decoding:
+![Icon](base-64/Assets.xcassets/AppIcon.appiconset/64.png?raw=true "Icon") &nbsp;Base 64 Encoder/Decoder 📄↔🗝️
 
 ### Working:
 - [x] Encoding/Decoding (UTF-8)
