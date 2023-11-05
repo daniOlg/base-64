@@ -5,9 +5,9 @@
 - [x] Load data from file like xml
 - [x] Switch between input and output text
 - [x] Clear input and output with one button
+- [x] Copy and paste from/to clipboard
 
 ### Todo's:
-- [ ] Copy and paste from/to clipboard
 - [ ] Add more encodings
 - [ ] Change menubar options
 - [ ] Add feedbacks like toasts or popups
